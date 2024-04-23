@@ -138,7 +138,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+.venv/
 ENV/
 env.bak/
 venv.bak/
@@ -195,5 +195,5 @@ pyrightconfig.json
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
+datasets/
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,venv
